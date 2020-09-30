@@ -13,7 +13,7 @@ are the courses that form the major course and what is the Type of the Course).<
 
 <p>Phase 2 [ Insert Into Table Values ]<br>
 Importing in the table FavouriteCourses the necessary values <br>
-such as ( 1, 'Excel / VBA', 'University of Davis', 3, Specialization</p>
+such as ( 1, 'Excel / VBA', 'University of Davis', 3, Specialization). </p>
 
 <p>Phase 3 </p>
 Executing some queries 
