@@ -1,4 +1,4 @@
-<h1>Building a database with my favourite courses from Coursera</h1>
+
 <p>General information About the Project</p>
 <p>In this project i build a database with my favourite courses from Coursera, <br>
 with SQL Server Management Studio. The courses have different categories, <br>
