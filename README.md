@@ -7,17 +7,16 @@ such as Guided Projects, Specilizations etc. I have divided the project into <br
 <br>
 
 Phase1 <br>
-Creating  the table
-
-<br> 
+*Creating  the table*
 Starting of by creating the table FavouriteCourses where i have the following <br>
 column names (id, Course Associates with, Name of provider, how many <br>
 are the courses that form the major course and what is the Type of the Course).<br>
 </p>
 
-<p>Phase 2 [ Insert Into Table Values ]<br>
+<p>Phase 2 <br>
+ *Insert Into Table Values*
 Importing in the table FavouriteCourses the necessary values <br>
 such as ( 1, 'Excel / VBA', 'University of Davis', 3, Specialization). </p>
 
-<p>Phase 3 </p>
-Executing some queries 
+<p>Phase 3 <br>
+*Executing some queries *
