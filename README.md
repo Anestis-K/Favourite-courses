@@ -1,10 +1,10 @@
-#General information About the Project
+# General information About the Project
 <p>In this project i build a database with my favourite courses from Coursera, 
 with SQL Server Management Studio. The courses have different categories, 
 such as Guided Projects, Specilizations etc. I have divided the project into 
 3 phases which i describe every one of them down below with more details.
 
-###Stats
+### Stats
 ![My project in stats](https://user-images.githubusercontent.com/47696240/97477537-6ce9a500-1958-11eb-91eb-95bc744bdfee.png)
 
 ## Phase1 Creating  the table 
